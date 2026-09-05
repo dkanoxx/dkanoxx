@@ -1,48 +1,36 @@
 <!-- Professional GitHub Profile README -->
-
-<h2 align="center">Hi there 👋 I'm dkanoxx</h2>
-<p align="center"><em>Computer science student and aspiring software developer based in New York City.</em></p>
+<h1 align="center">Hi there 👋 I'm Fernando Sepulveda</h1>
+<p align="center"><em>Computer science student building toward a career in data analytics.</em></p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sepulvedafernando04@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"/></a>
 </p>
 
 ---
 
 ### 🛠 Languages and Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,cpp,html,css,js" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,mysql,git" alt="Skill Icons" />
 </p>
 
 ---
 
 ### ✨ About Me
-
-- 📖 I'm currently studying computer science and building projects to sharpen my skills.
-- 📚 I'm currently learning data structures, algorithms and app development.
-- 🤖 I'm looking to collaborate on open-source iOS apps and C++ projects.
-- 💌 Ask me about Swift, SwiftUI, C++, or web development.
-- ✉️ How to reach me: replace the email/LinkedIn links above with your own.
-- ✨ Fun fact: In my free time, I enjoy music and experimenting with new technologies.
+- 📖 Pursuing a B.S. in Computer Science at Southern New Hampshire University (expected Sept 2026)
+- 📊 Currently building skills in SQL, Excel/data analysis, and Python for data work
+- 🔧 10+ years of hands-on field and technical experience before transitioning into tech
+- 🌱 This profile is a work in progress as I build out real projects — check back often
+- ✉️ Reach me: sepulvedafernando04@gmail.com
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-| --- | --- | --- |
-| [html-profile](https://github.com/dkanoxx/html-profile) | Personal portfolio site built with HTML/CSS | HTML, CSS |
-| [MusicArchive-SwiftUI](https://github.com/dkanoxx/MusicArchive-SwiftUI) | iOS app connecting to MusicArchive API | Swift, SwiftUI |
-| [cs255-portfolio](https://github.com/dkanoxx/cs255-portfolio) | Course portfolio demonstrating coding projects | Various |
+### 🚀 Projects
+*Adding real, original projects here as I complete them — starting with SQL and data analysis work.*
 
 ---
 
 ### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dkanoxx&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dkanoxx&layout=compact&theme=radical)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkanoxx&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
 <!-- End of README -->
